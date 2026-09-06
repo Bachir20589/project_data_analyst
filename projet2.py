@@ -1,4 +1,5 @@
 import csv
+import pandas as p
 
 with open("etudiant.csv", "rt") as f:
     lecteur = csv.DictReader(f)
@@ -23,3 +24,4 @@ with open("etudiant.csv", "rt") as f:
     print("Nombre d'étudiants en ING1 :", nb_ing1)
     moyenne = somme_age / nb_etudiants
     print("Âge moyen :", moyenne)
+   

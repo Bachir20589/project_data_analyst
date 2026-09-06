@@ -1,5 +1,4 @@
-nom,age,filiere
-Bachir,20,ING1
-Fatou,21,ING2
-Moussa,22,ING1
-Aicha,19,ING1
+,Unnamed: 0,nom,age,filiere
+1,1,Fatou,21,ING2
+2,2,Moussa,22,ING1
+3,3,Aicha,19,ING1
