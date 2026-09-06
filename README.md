@@ -2,7 +2,7 @@
 
 Ce dépôt regroupe mes projets et exercices réalisés dans le cadre de mon apprentissage en data analysis, avec Python et pandas.
 
-## 🎯 Objectif
+# Objectif
 
 Ce portfolio documente ma progression vers le métier de Data Analyst, dans le cadre de ma formation en autodidacte, en complément de mon cursus d'ingénieur en informatique et télécommunications (ING1).
 
